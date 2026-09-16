@@ -850,5 +850,3 @@ def main(page: ft.Page):
         show_dashboard()
 
     show_login_screen()
-
-ft.app(target=main)
